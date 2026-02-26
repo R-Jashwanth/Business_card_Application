@@ -91,7 +91,3 @@ development.
 -   Make content dynamic using state
 
 ------------------------------------------------------------------------
-
-## Author
-
-Jashwanth R
